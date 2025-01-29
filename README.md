@@ -32,5 +32,5 @@
 4. Дизайн-студия имени Слишком Известного Персонажа
 
 
-Нас можно найти в ![][https://www.google.com/webhp?hl=ru&sa=X&ved=0ahUKEwidkdDC85qLAxWMGRAIHS7WEcUQPAgI]
+Нас можно найти в [google.com](https://www.google.com/)
 
